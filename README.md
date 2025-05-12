@@ -1,6 +1,6 @@
 ### Hello World 👋 😁
 
-𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 3rd year Computer Engineering student at the University of Waterloo! I'm highly interested in software development for games and entertainment, and have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) 
+𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 4th year Computer Engineering student at the University of Waterloo! I'm highly interested in software development for games and entertainment, and have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) 
 
 ## 🧐 About
 
