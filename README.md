@@ -1,6 +1,6 @@
 ### Hello World 👋 😁
 
-𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 4th year Computer Engineering student at the University of Waterloo! I'm highly interested in software development for games and entertainment, and have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) 
+𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 4th year Computer Engineering student at the University of Waterloo! I'm highly interested in creating exciting software that brings positive changes to people. I have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) I've interned at RelayFi, Elbe AI, Cineplex. I'm excited to be interning in the Fall at Wealthsimple, and contribute towards their mission to bring financial freedom to millions of Canadians 🍁
 
 ## 🧐 About
 
@@ -10,7 +10,7 @@
 
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,js,ts,ruby,cs,unity,react,git,linux,docker,jenkins,html,css,tailwind,nodejs" />
+        <img src="https://skillicons.dev/icons?i=py,java,js,ts,ruby,cs,unity,react,linux,docker,jenkins,html,css,tailwind,nodejs" />
       </a>
     </p>
 
