@@ -1,6 +1,6 @@
 ### Hello World 👋 😁
 
-𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 4th year Computer Engineering student at the University of Waterloo! I'm highly interested in creating exciting software that brings positive changes to people. I have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) I've interned at RelayFi, Elbe AI, Cineplex. I'm excited to be interning in the Fall at Wealthsimple, and contribute towards their mission to bring financial freedom to millions of Canadians 🍁
+𝗜'𝗺 [Justin Chhay](https://github.com/justin-chhay), a 4th year Computer Engineering student at the University of Waterloo! I'm highly interested in creating exciting software that brings positive changes to people. I have experience in full-stack development, software engineering, databases, and QA. I'm always looking forward to learning new technologies, as learning is a lifelong journey :) I've interned at Wealthsimple, RelayFi, Elbe AI, Cineplex.🍁
 
 ## 🧐 About
 
